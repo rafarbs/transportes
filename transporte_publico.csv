@@ -1,0 +1,9 @@
+linha_onibus,horario,tipo_veiculo,num_passageiros
+101,06:00,Ônibus,45
+102,07:00,Ônibus,50
+103,08:00,Micro-ônibus,30
+101,09:00,Ônibus,42
+104,10:00,Vans,25
+101,11:00,Ônibus,38
+103,12:00,Micro-ônibus,28
+102,13:00,Ônibus,47
